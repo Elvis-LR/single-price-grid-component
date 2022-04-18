@@ -180,4 +180,12 @@ li>p{
         grid-area: tres;
         border-bottom-right-radius: 0.5rem;
     }
+    button:hover{
+        background-color: rgb(255, 255, 255);
+        transition: all 0.3s ease-in-out;
+    }
+    .sub h2:hover{
+        color: hsl(71, 73%, 54%);
+        transform: scale(1.2);
+    }
 }
